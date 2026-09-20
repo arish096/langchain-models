@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🦜🔗 LangChain Models
@@ -46,8 +45,6 @@ langchain-models/
 ├── 📄 requirements.txt     # Project dependencies
 ├── 📄 test.py              # Quick test/experimentation script
 └── 📄 README.md            # Project documentation
-
-```
 
 ---
 
